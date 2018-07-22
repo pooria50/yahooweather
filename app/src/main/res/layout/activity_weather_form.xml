@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="12dp"
+    tools:context="com.example.pooria.yahooweatherapi.weather.WeatherActivityForm">
+    <com.example.pooria.yahooweatherapi.customViews.MyEdittext
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cityName"
+    android:hint="Enter City :"
+    />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/show"
+        android:layout_marginTop="24dp"
+        android:text="Show"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:id="@+id/result"/>
+
+</LinearLayout>

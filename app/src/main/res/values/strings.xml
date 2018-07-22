@@ -1,0 +1,28 @@
+<resources>
+    <!--<string name="app_name">YahooWeatherApi</string>
+    <string name="title_activity_maps_weather">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main_maps">Map</string>
+    <string name="title_activity_retrofit_maps">Map</string>-->
+    <string name="app_name">MyWeatherApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="abri">ابری</string>
+    <string name="tonder">رعد و برق</string>
+    <string name="rain">بارانی</string>
+    <string name="c">آفتابی</string>
+    <string name="d">کمی ابری</string>
+    <string name="e">ابری</string>
+    <string name="f">رگبار</string>
+    <string name="g">بارش برف</string>
+    <string name="h">ابرهای پراکنده</string>
+    <string name="i">نیمه ابری</string>
+    <string name="j">تگرگ</string>
+    <string name="k">برف سبک</string>
+    <string name="barf">برف سنگین</string>
+    <string name="m">وزش باد</string>
+    <string name="n">باد شدید</string>
+    <string name="o">مه آلود</string>
+    <string name="p">مه شدید</string>
+    <string name="q">بارش پراکنده</string>
+    <string name="w">آسمان صاف</string>
+</resources>

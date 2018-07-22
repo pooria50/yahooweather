@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408143783833",
+    "firebase_url": "https://weatherapi-ab8b1.firebaseio.com",
+    "project_id": "weatherapi-ab8b1",
+    "storage_bucket": "weatherapi-ab8b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408143783833:android:727d6246bee75a04",
+        "android_client_info": {
+          "package_name": "com.example.pooria.yahooweatherapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408143783833-4ts0s8jeq4pbj5ccuskpu3dus3s3jqto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pooria.yahooweatherapi",
+            "certificate_hash": "9900d3a531d4efb0ff5c639148ac4e6a113b770d"
+          }
+        },
+        {
+          "client_id": "408143783833-750akt1anknvtdd94fotq4pqnngg3rq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSwcWPlB6qKi4ZdjVhLum_k9Hl0Pweq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408143783833-750akt1anknvtdd94fotq4pqnngg3rq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

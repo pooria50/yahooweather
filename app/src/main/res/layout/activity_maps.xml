@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pooria.yahooweatherapi.weather.MapsWeatherActivity">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="100dp"
+        android:paddingBottom="30sp"
+        android:src="@drawable/here"
+        />
+
+    <ImageView
+        android:id="@+id/inf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="16dp"
+        android:src="@android:drawable/star_big_on" />
+</RelativeLayout>
